@@ -459,7 +459,9 @@
   "short sentences": {
     "shall i ask":"nan kekatta",  
     "you say":"nin chell", 
-    "say properly":"sama chell"
+    "say properly":"sama chell", 
+    "what are you talking":"nin endre mundyo ulle", 
+    "what do you do ": "nin endre akre"
 
   }
 }
