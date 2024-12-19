@@ -1,0 +1,55 @@
+@media (max-width:780px) {
+
+    
+/* Main Chat Area */
+.main-container {
+    height: 100vh;
+    width: 100vw !important;
+    max-width: 100vw;
+
+    }
+    .chat-container {
+    height: 90vh !important;
+    }
+    .input-container {
+        bottom: 1vh;  
+        left: 0%; 
+        width: 100%;
+    }
+    
+    .input-box {
+
+        width:  100%!important;
+        
+    }
+    .typing-indicator {
+margin-bottom: -30px;
+font-size: 13px;
+
+
+    }
+    #user-input, .message-content {
+        
+        font-size: 13px;
+    }
+
+    .message {
+        padding: 10px;
+
+    }
+    .bot-avatar {
+        background: linear-gradient(135deg, #e91e63, #ff4081);
+        font-size: 12px;
+        height: 30px;
+        width: 30px;
+    }
+    
+    .user-avatar {
+        background: linear-gradient(135deg, #2563eb, #3b82f6);
+        font-size: 12px;
+        height: 30px;
+        width: 30px;
+    }
+    
+    
+}
