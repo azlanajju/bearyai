@@ -10,6 +10,7 @@
     }
     .chat-container {
     height: 90vh !important;
+    margin-top: 30px !important;
     }
     .input-container {
         bottom: 1vh;  

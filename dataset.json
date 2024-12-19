@@ -440,11 +440,26 @@
     "question":"prashna", 
     "answer":"utthara", 
     "know":"gonthu", 
-    "ask":"ke"
+    "ask":"ke", 
+    "previous":"munnolthe", 
+    "forward":"edur", 
+    "backward":"perawth", 
+    "back":"peraw",
+    "front":"edur", 
+    "do":"ak", 
+    "does":"akre", 
+    "proper":"sama", 
+    "":""
+
+
+
+
+
   }, 
   "short sentences": {
     "shall i ask":"nan kekatta",  
-    "you say":"nin chell"
+    "you say":"nin chell", 
+    "say properly":"sama chell"
 
   }
 }
