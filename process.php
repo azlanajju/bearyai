@@ -8,7 +8,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
     exit(0);
 }
 
-$apiKey = 'AIzaSyBhXfHEDoZw41AmFmFCUFnQEOOimQiS_s8';
+$apiKey = 'AIzaSyCVix472dUIn6AEMLIHc8Lulx-aARyIHeI';
 
 session_start();
 if (!isset($_SESSION['chat_history'])) {
